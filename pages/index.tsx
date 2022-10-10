@@ -57,6 +57,8 @@ const Home: NextPage = () => {
               <a
                 href="https://www.beondeck.com/"
                 className="font-semibold text-slate-900"
+                target="_blank"
+                rel="noreferrer"
               >
                 On Deck
               </a>
@@ -92,6 +94,8 @@ const Home: NextPage = () => {
               <a
                 href="https://twitter.com/Victor_Patru"
                 className="font-semibold text-slate-900"
+                target="_blank"
+                rel="noreferrer"
               >
                 Twitter
               </a>
@@ -113,6 +117,8 @@ const Home: NextPage = () => {
               <a
                 href="https://github.com/victorpatru"
                 className="font-semibold text-slate-900"
+                target="_blank"
+                rel="noreferrer"
               >
                 Github
               </a>
